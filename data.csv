@@ -1,0 +1,6 @@
+Signal,Fan-in,Fan-out,Gate Type,Path Length,Logic Depth
+S1,2,3,AND,4,4
+S2,3,2,OR,3,3
+S3,1,4,XOR,5,5
+S4,2,1,NAND,2,2
+S5,4,2,NOR,6,6
